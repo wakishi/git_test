@@ -1,0 +1,1 @@
+This is Wakishi's first git project!
